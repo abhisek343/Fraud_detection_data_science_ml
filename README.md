@@ -29,8 +29,7 @@ To get started with this project, follow these steps:
 
 ## Contributors
 
-- [Your Name]
-- [Your Team Members]
+- Abhisek Behera
 
 ## License
 
